@@ -20,6 +20,7 @@ class Hero
     "#{@name} has a health of #{@health}"
   end
 
+
 end
 
 #hero = Hero.new 'mike'
